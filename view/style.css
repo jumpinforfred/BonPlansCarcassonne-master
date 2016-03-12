@@ -1,0 +1,31 @@
+body {
+    background-color: #586BC6;
+}
+
+#banniere {
+	color: white;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#banniere img {
+	width: 100%;
+}
+
+#corps {
+	margin-left: 10%;
+	margin-right: 10%;
+	background-color: #D7D1C4; 
+	padding-top: 10px;
+    padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+#pied {
+	margin-left: 10%;
+	margin-right: 10%;
+	background-color: #D7D1C4; 
+	color: white;
+	padding-left: 10px;
+	padding-right: 10px;
+}
